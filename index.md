@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的稻苗插秧记录
 
-You can use the [editor on GitHub](https://github.com/beni520/TransplantingRiceSeedlingRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每年春种的时候，家家户户经常会动用家庭成员的力量，一起插秧给自家的稻田种上新的秧苗。这就需要大家有详细的安排和分工合作，防止漏掉部分稻田忘记插上秧苗。我们可以利用这款应用，帮助我们记录每次插秧的面积，插秧的数量和人数。以及插秧的计划安排内容等信息，帮助各个家庭成员更好的完成插秧任务。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/TransplantingRiceSeedlingRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
